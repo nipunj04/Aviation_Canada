@@ -39,8 +39,7 @@ The business aviation market often presents data discrepancies due to regulatory
 
 ```text
 ├── Data/
-│   ├── raw_tc_registry_export.csv       # Raw transactional data extracted from Transport Canada
-│   └── cleaned_aviation_market_data.xlsx # Structured dataset with pivot tables, data cleaning, and chart pipelines
+│   └── Aviation_Market_Analysis.xlsx # Structured dataset with pivot tables, data cleaning, and chart pipelines
 ├── Delivery/
-│   └── Nipun_Jaiswal_Market_Brief.pdf   # Final executive-ready PDF market briefing note
+│   └── Aviation_Market_Analysis.pdf   # Final executive-ready PDF market briefing note
 └── README.md                            # Portfolio documentation and project overview
